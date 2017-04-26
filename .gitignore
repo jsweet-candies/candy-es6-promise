@@ -1,5 +1,7 @@
 /target/
+/bin/
 /.classpath
 /.project
-/.jsweet/
 /.settings/
+/.jsweet/
+src/main/resources/META-INF/resources/typings
